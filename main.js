@@ -1,3 +1,5 @@
+// Esto no va a ser mi parte de mi proyecto, como todavía no conozco lo suficiente
+// Como para implementarlo en mi proyecto, hice esto.
 function ingresarDatosAlumno() {
   let nombre = prompt("Ingrese el nombre del alumno");
   let curso = prompt("Ingrese el curso del alumno");
